@@ -1,6 +1,6 @@
 {
   "name": "@vrijwilligerswerk/angular-sortablejs",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "description": "SortableJS for Angular",
   "main": "./dist/index.js",
   "typings": "./dist/index",
