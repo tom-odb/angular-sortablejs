@@ -5,7 +5,7 @@ import { SortablejsBindings } from './sortablejs-bindings';
 import { SortablejsOptions } from './sortablejs-options';
 import { SortablejsService } from './sortablejs.service';
 
-const OriginalSortable: any = require('sortablejs');
+const OriginalSortable: any = require('@vrijwilligerswerk/sortablejs');
 
 @Directive({
   selector: '[sortablejs]'

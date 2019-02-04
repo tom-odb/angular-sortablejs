@@ -1,5 +1,5 @@
 {
-  "name": "angular-sortablejs",
+  "name": "@vrijwilligerswerk/angular-sortablejs",
   "version": "2.6.0",
   "description": "SortableJS for Angular",
   "main": "./dist/index.js",
@@ -37,16 +37,16 @@
     "@angular/core": "4.0.1",
     "@types/node": "7.0.12",
     "@types/systemjs": "0.20.2",
+    "@vrijwilligerswerk/sortablejs": "1.8.3",
     "git-validate": "2.2.2",
     "rimraf": "2.6.1",
     "rxjs": "^5.5.2",
-    "sortablejs": "^1.5.1",
     "tslint": "5.1.0",
     "typescript": "2.2.2",
     "watch": "^1.0.2"
   },
   "peerDependencies": {
-    "sortablejs": ">=1.5.1",
+    "@vrijwilligerswerk/sortablejs": "1.8.3",
     "@angular/core": ">=4.0.0"
   },
   "files": [
